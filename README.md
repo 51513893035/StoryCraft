@@ -1,0 +1,2 @@
+# StoryCraft
+Ai based storyCrafting 
