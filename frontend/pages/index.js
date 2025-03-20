@@ -10,4 +10,4 @@ export default function Home() {
       <p className="text-lg mt-4">Your AI-powered story-writing companion.</p>
     </div>
   );
-    }
+}
